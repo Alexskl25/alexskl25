@@ -16,7 +16,7 @@
 
 ## 💼 Work Experience
 **System Administrator** 
-2020 — Present 
+2019 — Present 
 - Maintained and secured Linux servers  
 - Configured network services  
 - Automated tasks using Bash and Ansible  
