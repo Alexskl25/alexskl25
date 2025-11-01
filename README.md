@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Alexskl25/alexskl25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name is Alex
 
-Here are some ideas to get you started:
+**Position:** System Administrator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+- Linux (RHEL, CentOS, Ubuntu)
+- Bash, Git
+- Ansible, WAF, SIEM
+- Networking & Security
+
+---
+
+## 💼 Work Experience
+**System Administrator** 
+2020 — Present 
+- Maintained and secured Linux servers  
+- Configured network services  
+- Automated tasks using Bash and Ansible  
+
+---
+
+## 💬 About Me
+6+ years of experience in Linux system administration and security.  
+Currently focusing on **DevSecOps** development.
