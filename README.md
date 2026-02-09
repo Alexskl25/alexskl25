@@ -58,6 +58,7 @@ System Engineer with strong Linux background and experience in enterprise infras
 ---
 
 ### Technical Support Engineer — UPC  
+**2017 — 2019**
 
 - Provided 2nd line technical support for authorization systems  
 - Detected, registered, and resolved outages to minimize downtime  
