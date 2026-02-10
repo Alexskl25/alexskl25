@@ -3,6 +3,7 @@
 
 📍 Slovakia  
 🔗 https://www.linkedin.com/in/oleksii-sokolov-1aa592141  
+🔗 https://github.com/Alexskl25/alexskl25
 
 ---
 
@@ -25,6 +26,7 @@ System Engineer with strong Linux background and experience in enterprise infras
 - **Containers & Orchestration:** Kubernetes (basic), Docker (basic)  
 - **Databases:** PostgreSQL (operations level)  
 - **Security & Cloud Tools:** GitLab, Cloudflare WAF, AWS Shield, FortiWeb, Pulse Secure  
+- **Cloud:** AWS/Gcloud (basic)
 
 ---
 
